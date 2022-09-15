@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+/**
+ *wangdt
+ */
+
+// 切片
 func main() {
 
 	//声明一个slice

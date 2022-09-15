@@ -6,8 +6,10 @@ import (
 	"time"
 )
 
+/**
+ *wangdt
+ */
 //读写互斥锁-- RWMutex
-
 //允许多个读并行，但是写只能有一个
 
 var rmmutex = sync.RWMutex{}

@@ -2,8 +2,10 @@ package main
 
 import "fmt"
 
+/**
+ *wangdt
+ */
 //管道遍历
-
 // for循环读取管道没问题
 // for
 func main() {

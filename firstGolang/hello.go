@@ -4,6 +4,10 @@ import (
 	"fmt"
 )
 
+/**
+ *wangdt
+ */
+
 // 定义变量
 var (
 	name = "zhangsan"

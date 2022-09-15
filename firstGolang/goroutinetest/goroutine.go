@@ -6,6 +6,9 @@ import (
 	"sync"
 )
 
+/**
+ *wangdt
+ */
 var wg = sync.WaitGroup{}
 
 func test1() {

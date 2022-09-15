@@ -6,6 +6,9 @@ import (
 	"time"
 )
 
+/**
+ *wangdt
+ */
 var wg = sync.WaitGroup{}
 
 func test(n int) {

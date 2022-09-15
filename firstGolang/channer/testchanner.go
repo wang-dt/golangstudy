@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 /**
+ * wangdt
  * 管道写入和输出
  */
 func main() {

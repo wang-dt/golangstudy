@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+ *wangdt
+ */
 type Human struct {
 	name string
 	sex  string

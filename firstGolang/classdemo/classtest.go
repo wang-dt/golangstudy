@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+ *wangdt
+ */
 // Hello 类名的首字母大写 其他的包可以访问
 // Getname 方法名的首字母大写 其他的包可以访问
 type (

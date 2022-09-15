@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+/**
+ *wangdt
+ */
 // channel单向通道
 // chan<-只写通道
 func test(intc chan<- int) {

@@ -4,6 +4,10 @@ import (
 	"fmt"
 )
 
+/**
+ *wangdt
+ */
+
 func main() {
 
 	var numbers = make([]int, 3, 5)

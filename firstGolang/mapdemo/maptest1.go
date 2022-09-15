@@ -4,6 +4,9 @@ import (
 	"fmt"
 )
 
+/**
+ *wangdt
+ */
 func main() {
 
 	var map1 = map[string]string{}

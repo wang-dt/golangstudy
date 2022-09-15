@@ -6,6 +6,9 @@ import (
 	"time"
 )
 
+/**
+ *wangdt
+ */
 // 互斥锁 单多协程多同一个资源进行操作的时候
 var mutex = sync.Mutex{}
 var wg = sync.WaitGroup{}

@@ -5,6 +5,10 @@ import (
 	"sync"
 )
 
+/**
+ *wangdt
+ */
+
 // 三个方法使用 add done wait
 var wg = sync.WaitGroup{}
 

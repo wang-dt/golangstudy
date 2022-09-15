@@ -5,6 +5,9 @@ import (
 	"sync"
 )
 
+/**
+ *wangdt
+ */
 func putintchan(intchan chan int) {
 
 	defer close(intchan)

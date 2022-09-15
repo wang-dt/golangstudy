@@ -3,6 +3,10 @@ package main
 //select多路复用
 //不需要关闭channel
 
+/**
+ *wangdt
+ */
+
 import (
 	"fmt"
 	"time"
